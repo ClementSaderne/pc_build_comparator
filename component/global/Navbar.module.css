@@ -1,0 +1,35 @@
+#navBar {
+    font-size: 1.3rem;
+    height: 5%;
+    display: flex;
+    align-items: center;
+    justify-content: end;
+}
+
+#navBar img {
+    height: 5vw;
+    width: 5vw;
+}
+
+#navImgDiv {
+    flex: 1;
+}
+
+#navListDiv {
+    flex: 7;
+}
+
+#navAccountDiv {
+    flex: 2;
+    text-align: end;
+}
+
+#navList {
+    display: flex;
+    justify-content: center;
+}
+
+.navItem {
+    flex: 1;
+    text-align: center;
+}
