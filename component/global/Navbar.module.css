@@ -1,14 +1,16 @@
 #navBar {
     font-size: 1.3rem;
-    height: 5%;
+    height: 8vh;
     display: flex;
     align-items: center;
     justify-content: end;
+    background-color: #0F172A;
+    opacity: 80%;
 }
 
 #navBar img {
-    height: 5vw;
-    width: 5vw;
+    height: 3vw;
+    width: 3vw;
 }
 
 #navImgDiv {
